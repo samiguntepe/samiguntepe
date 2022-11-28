@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @samiguntepe<br>🌱 I’m currently learning C.<br>- 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
+👋 Hi, I’m Sami<br>🌱 I’m currently learning C.<br>- 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
 
 ## 🌐 Socials:
