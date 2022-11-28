@@ -1,12 +1,15 @@
 # 💫 About Me:
-👋 Hi, I’m Sami<br>🌱 I’m currently learning C.<br>- 📫 How to reach me  sguntepe@student.42kocaeli.com.tr<br>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
+👋 Hi, I’m Sami<br>🌱 I’m currently learning C.<br>- 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiguntepe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiguntepe) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+#![forty-two](https://user-images.githubusercontent.com/94235389/204357824-da640f20-d2ae-4b64-badc-4ab59582ed70.png)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&theme=chartreuse-dark&hide_border=true)<br/>
