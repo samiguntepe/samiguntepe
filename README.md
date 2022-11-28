@@ -8,7 +8,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-#![forty-two](https://user-images.githubusercontent.com/94235389/204357824-da640f20-d2ae-4b64-badc-4ab59582ed70.png)
+#:logo42:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
