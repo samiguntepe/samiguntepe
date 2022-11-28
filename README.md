@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sami<br>🌱 I’m currently learning C.<br>- 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
+👋 Hi, I’m Sami<br>🌱 I’m currently learning C.<br>- 📫 How to reach me  sguntepe@student.42kocaeli.com.tr<br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
 
 ## 🌐 Socials:
