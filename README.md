@@ -8,7 +8,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-# <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABmJLR0QA/wD/AP+gvaeTAAABqElEQVRoge2Yu07DMBSGP24pqMCExEbLOyBWpEpFdGJk5wG4SEhIgOAtgAregYGKgbfpRQxs7dyqDEmEW5z2OEodi/qTztBj1+f/EztODB6Px+Px6CkDdaAN9IGh5ehHtZ8jLUYcAr0cRCdFD6hKxe86Jj6OLlCSGKg7IDYpniQG2g4ITYrmuNgFjYE+sCRxmgMDYFlN6AwM7WhJzYjmxbxUZMXcGrgHtoAHg7Yh8ArsA0VgHagAjZQaEpE8DQpR34KwbQCcTKh5K6wrWp+mg0jaXgR13102sKfkToFvwv2mpuQrLhsoRr9XCF8J4nxL6buRxoCtp9BFJPAa2Jx1sVncAV20gCOlb25TyGSsN+CA3yml0rBpIEhh4GZCvzth3cwMXDH2UjVlrE9Nm7qRScVnZsB0fRwruRrQyWh8awa2p9QMCKeYEwbi9REouTVBXWf2gTNgFThXcpdMXvhB9D9j/AdN3vxLAwPrKuT80aYz8GVBSFo64wmdgQ8LQtIi0lbG3aPFHanTKqMfHnlHF4PD3ZgS4Vlkk/yO15vAIwZX3uPxeDzzxQ+eBV4LJiC38AAAAABJRU5ErkJggg==">Stats
+# 42 Stats
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
