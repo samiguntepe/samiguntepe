@@ -8,7 +8,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-# 42 Stats
+# <img src="https://img.icons8.com/fluency-systems-filled/48/null/42.png"/> Stats
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
