@@ -12,8 +12,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
 
 # 📊 GitHub Stats:
-
-<br/>
 ![](https://github-readme-stats.vercel.app/api?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&theme=chartreuse-dark&hide_border=true)
 <br/>
