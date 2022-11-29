@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "left">
 <h1 align="center">Hi , I'm Sami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&center=true&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
@@ -21,7 +21,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""></p><br/>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 <br/>
-<p align="center">
+<p align="left">
 <a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
 </p>
 
