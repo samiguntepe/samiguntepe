@@ -8,7 +8,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
-# ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)Stats
+# Ecole 42 Stats
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
 
 # 📊 GitHub Stats:
