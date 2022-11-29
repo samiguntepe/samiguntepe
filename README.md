@@ -16,6 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&theme=chartreuse-dark&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fatihcill&theme=darkhub&column=-1">
   
     
 
