@@ -1,7 +1,3 @@
-<p align="left">
-  <a href="https://github.com/samiguntepe">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Sami Güntepe" /></a>
-</p>
 
 <a href="https://github.com/samiguntepe"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
 
@@ -22,6 +18,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;border_radius=20" alt="GitHub Streak"></a></p>
 <br/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=hacker&amp;show_icons=true"></p>
 <p align="left">
 <a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
 </p>
