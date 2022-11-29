@@ -21,6 +21,10 @@
     </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/Fatihcill"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihcill&show_icons=true&theme=tokyonight&bg_color=0e1116" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatihcill&theme=tokyonight&layout=compact&bg_color=0e1116" />
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
