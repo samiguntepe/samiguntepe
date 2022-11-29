@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sami</h1>
+<h1 align="center">Hi 👋, I'm Sami</h1><br/>
 # 💫 About Me:
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
