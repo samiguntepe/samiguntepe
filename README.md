@@ -3,7 +3,7 @@
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About Me**
-🎓 Studying at <p><img src="https://img.shields.io/badge/-Ecole-111111?style=flat&amp;logo=42" alt="42"></p><br/>
+<p>🎓 Studying at <img src="https://img.shields.io/badge/-Ecole-111111?style=flat&amp;logo=42" alt="42"></p><br/>
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
