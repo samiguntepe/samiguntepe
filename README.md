@@ -17,7 +17,7 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fatihcill&theme=darkhub&column=-1">
+<a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
   
     
 
