@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p><img src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""></p><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&theme=chartreuse-dark&hide_border=true)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 <br/>
 <p align="center">
 <a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
