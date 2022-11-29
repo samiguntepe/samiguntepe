@@ -25,5 +25,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samiguntepe&icon=0&color=12)](https://visitcount.itsvg.in)
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
