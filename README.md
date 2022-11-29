@@ -16,8 +16,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&theme=chartreuse-dark&hide_border=true)
 <br/>
 
-<p align="left" style=" margin-top: 0px">
-<a href="https://github.com/samiguntepe"><img weight="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116" />
+<p align="left" style=" margin-top: 0px weight : 494px">
+<a href="https://github.com/samiguntepe"><img weight="494px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116" />
 </p>
   
     
