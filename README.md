@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sami</h1>
 
 # ℹ️ About Me:
-🎓 Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)
+🎓 Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
 ## 🌐 Socials:
