@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami</h1>
 
-# 💫 About Me:
+# ℹ️ About Me:
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
 ## 🌐 Socials:
