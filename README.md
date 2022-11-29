@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center">
-<a href="https://github.com/Fatihcill"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatihcill&theme=tokyonight&layout=compact&bg_color=0e1116" />
+<a href="https://github.com/samiguntepe"><img weight="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116" />
 </p>
   
     
