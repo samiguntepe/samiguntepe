@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samiguntepe&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&theme=chartreuse-dark&hide_border=true)<br/>
-<p align="left" style = margin-top: >
+<p align="left" style = margin-top: 5px >
 <a href="https://github.com/samiguntepe"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=tokyonight&layout=compact&bg_color=0e1116" />
 </p>
 
