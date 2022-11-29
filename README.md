@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/></h2></h1>
 
 # ℹ️ About Me:
 🎓 Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
