@@ -4,7 +4,7 @@
 🎓 Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">Socials: 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiguntepe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiguntepe) 
 
 # 💻 Tech Stack:
