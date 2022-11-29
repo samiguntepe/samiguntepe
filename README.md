@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/Fatihcill"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fatihcill&theme=tokyonight&layout=compact&bg_color=0e1116" />
 </p>
-<p align="center">
+<p align="left">
     <a alt="Penguinlay's GitHub Profile Trophies" href="https://github.com/Penguinlay" rel="noreferrer" target="_blank">
         <img src="https://github-profile-trophy.vercel.app/?username=Fatihcill&theme=darkhub&column=-1">
     </a>
