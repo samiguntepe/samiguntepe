@@ -1,4 +1,4 @@
-<body align = "center">
+<div align = "center">
 <h1 align="center">Hi , I'm Sami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&center=true&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
@@ -28,6 +28,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=samiguntepe&icon=0&color=12)](https://visitcount.itsvg.in)
   
-<body/>
+<div/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
