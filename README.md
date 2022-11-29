@@ -22,7 +22,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 <br/>
 <p align="center">
-<a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
+<a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&amp;hide_border=true&amp;theme=chartreuse-dark&amp;layout=compact&bg_color=0e1116"/>
 </p>
 
 ---
