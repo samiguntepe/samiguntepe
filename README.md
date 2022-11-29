@@ -1,10 +1,8 @@
 <h1 align="center">Hi , I'm Sami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+Sami+Güntepe's+Github;Ecole+42+Student;&center=true&width=500&height=50&color= #00CC00 "></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=matrix&pause=1000&color=00CC00&center=true&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
 
 # ℹ️ About Me:
-🎓 Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
+🎓 Studying at <p><img src="https://img.shields.io/badge/-Ecole-111111?style=flat&amp;logo=42" alt="42"></p><br/>
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
