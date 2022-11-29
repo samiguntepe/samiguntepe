@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About Me**
 <p>🎓 Studying at  <img src="https://img.shields.io/badge/-Ecole-111111?style=flat&amp;logo=42" alt="42"></p><br/>
-📫 How to reach me  sguntepe@student.42kocaeli.com.tr
+<p>📫 How to reach me  sguntepe@student.42kocaeli.com.tr<p/>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samiguntepe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samiguntepe) 
