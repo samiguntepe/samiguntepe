@@ -17,7 +17,7 @@
 <br/>
 
 <p align="left">
-<a href="https://github.com/samiguntepe"><img width="494" margin-top="0" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
+<a href="https://github.com/samiguntepe"><img width="494" margin-top="0px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
 </p>
   
     
