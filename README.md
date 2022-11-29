@@ -26,6 +26,6 @@
 
 ---
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
