@@ -23,8 +23,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 
-## Github Activity Graph
-<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe" alt="samiguntepe;s github activity graph"></a></p>
+## 📈 Github Activity Graph
+<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe&theme=merko" alt="samiguntepe;s github activity graph"></a></p>
 
 
 ---
