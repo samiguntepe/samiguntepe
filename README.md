@@ -18,7 +18,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;border_radius=20" alt="GitHub Streak"></a></p>
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;show_icons=true"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;show_icons=true;hide_border=true"></p>
 <p align="left">
 <a href="https://github.com/samiguntepe"><img width="494" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&layout=compact&bg_color=0e1116"/>
 </p>
