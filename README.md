@@ -13,7 +13,7 @@
 
 <p><img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
 <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&amp;logo=HTML5" alt="HTML5">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS3">&nbsp;</p>
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS3">&nbsp;</p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Ecole 42 Stats </b>
