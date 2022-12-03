@@ -17,7 +17,7 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Ecole 42 Stats </b>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
+<a href="https://github.com/samiguntepe"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Github Stats </b>
 
@@ -28,7 +28,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 
 ## 📈 Github Activity Graph
-<p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe&theme=merko" alt="samiguntepe;s github activity graph"></a></p>
+<p><a href="https://github.com/samiguntepe"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe&theme=merko" alt="samiguntepe;s github activity graph"></a></p>
 
 
 ---
