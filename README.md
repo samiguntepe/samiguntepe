@@ -34,10 +34,6 @@
 
 ---
 <h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg?increment=1" alt="samiguntepe :: Visitor's Count" /></p>
-
-
-<h4 align="left">Visitor's count 👀</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
