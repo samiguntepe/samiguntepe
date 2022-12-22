@@ -20,7 +20,10 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Ecole 42 Stats** </b>
+<!--
 <a href="https://github.com/samiguntepe"><img src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
+-->
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clb16cs8m00210fjnxla8ydra/stats?cursusId=21&coalitionId=231" alt="sguntepe's 42 stats" /></a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Github Stats** </b>
 
