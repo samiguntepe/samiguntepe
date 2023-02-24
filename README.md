@@ -35,10 +35,10 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 
-
+<!--
 ## 📈 **Github Activity Graph**
 <p><a href="https://github.com/samiguntepe"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe&theme=merko" alt="samiguntepe;s github activity graph"></a></p>
-
+-->
 ---
 <h4 align="left">Visitor's count 👀</h4>
 <p align="left"><img src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
