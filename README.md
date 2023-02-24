@@ -31,9 +31,9 @@
 
 <p><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""><br/></p>
+<p><img width="494"  src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""><br/></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
+<p><img width="494"  src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 
 <!--
 ## 📈 **Github Activity Graph**
