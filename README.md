@@ -1,4 +1,4 @@
-
+<div align="left">
 <a href="https://github.com/samiguntepe"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
 
 
@@ -22,18 +22,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Ecole 42 Stats** </b>
 
-<a href="https://profile.intra.42.fr/users/sguntepe"><img width="300" src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
+<a href="https://profile.intra.42.fr/users/sguntepe"><img width="420" src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
 <!--
 <a href="https://profile.intra.42.fr/users/sguntepe"><img src="https://badge42.vercel.app/api/v2/clb16cs8m00210fjnxla8ydra/stats?cursusId=21&coalitionId=231" alt="sguntepe's 42 stats" /></a>
 -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Github Stats** </b>
 
-<p><img width="494" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
+<p><img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
 
-<p><img width="494"  src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""><br/></p>
+<p><img width="420"  src="https://github-readme-stats.vercel.app/api?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false" alt=""><br/></p>
 
-<p><img width="494"  src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
+<p><img width="420"  src="https://github-readme-streak-stats.herokuapp.com/?user=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true" alt=""></p>
 
 <!--
 ## 📈 **Github Activity Graph**
@@ -41,6 +41,7 @@
 -->
 ---
 <h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img width="247" src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
+<p align="left"><img width="210" src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
