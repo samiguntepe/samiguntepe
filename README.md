@@ -20,7 +20,7 @@
 <img  src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" height="25" alt="CSS3">&nbsp;</p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Ecole 42 Stats** </b>
+## <img width="420" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" ><b> **Ecole 42 Stats** </b>
 <!--
 <a href="https://profile.intra.42.fr/users/sguntepe"><img width="420" src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
 
