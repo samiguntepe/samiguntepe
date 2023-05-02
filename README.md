@@ -23,9 +23,9 @@
 ## <img width="30" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" ><b> **Ecole 42 Stats** </b>
 <!--
 <a href="https://profile.intra.42.fr/users/sguntepe"><img width="420" src="https://badge.mediaplus.ma/greenbinary/sguntepe?1337Badge=off&UM6P=off" alt="sguntepe's 42 stats" /></a>
-
+-->
 <a href="https://profile.intra.42.fr/users/sguntepe"><img src="https://badge42.vercel.app/api/v2/clb16cs8m00210fjnxla8ydra/stats?cursusId=21&coalitionId=231" alt="sguntepe's 42 stats" /></a>
- -->
+ 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> **Github Stats** </b>
 
 <p><img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiguntepe&amp;theme=chartreuse-dark&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""><br/></p>
