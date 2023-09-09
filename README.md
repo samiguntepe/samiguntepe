@@ -2,11 +2,11 @@
 <a href="https://github.com/samiguntepe"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About Me:**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About Me**
 🎓 &nbsp; Studying at ![42](https://img.shields.io/badge/-Ecole-111111?style=flat&logo=42)<br/>
 📫 How to reach me  sguntepe@student.42kocaeli.com.tr
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials:** 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  **Socials** 
 <a href="https://www.linkedin.com/in/samiguntepe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samiguntepe/" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/samiguntepe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samiguntepe/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guntepesami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/guntepesami" height="30" width="40" /></a>
@@ -39,8 +39,8 @@
 <p><a href="https://github.com/samiguntepe"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe&theme=merko" alt="samiguntepe;s github activity graph"></a></p>
 -->
 ---
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img width="210" src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img width="210" src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
