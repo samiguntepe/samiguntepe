@@ -39,8 +39,10 @@
 <p><a href="https://github.com/samiguntepe"><img src="https://activity-graph.herokuapp.com/graph?username=samiguntepe&theme=merko" alt="samiguntepe;s github activity graph"></a></p>
 -->
 ---
+<!--
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img width="210" src="https://profile-counter.glitch.me/{samiguntepe}/count.svg" alt="samiguntepe :: Visitor's Count" /></p>
 <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=your-github-samiguntepe)
 </div>
