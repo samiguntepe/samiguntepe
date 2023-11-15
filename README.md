@@ -15,7 +15,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
 
-<p><img src="https://skillicons.dev/icons?i=c,cpp,html,css," height="35" alt="My Skills"></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,bash" height="35" alt="My Skills"></p>
 
 
 ## <img width="30" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" ><b> **Ecole 42 Stats** </b>
