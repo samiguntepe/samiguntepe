@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <a href="https://github.com/samiguntepe"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Ecole+42+Student" alt="Typing SVG" /></a>
 
 
@@ -15,7 +15,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
 
-<p><img src="https://skillicons.dev/icons?i=c,cpp,html,css," alt="My Skills"></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,html,css," height="35" alt="My Skills"></p>
 
 
 ## <img width="30" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" ><b> **Ecole 42 Stats** </b>
