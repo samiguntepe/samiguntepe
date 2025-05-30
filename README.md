@@ -14,7 +14,7 @@
 <a href="https://www.codewars.com/users/samiguntepe"> <img align="center" height="30"  alt="Codewars icon" src="https://docs.codewars.com/logo.svg"> </a>
 -->
 <a href="https://www.linkedin.com/in/samiguntepe/"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/><a/>
-<a href="https://www.instagram.com/samiguntepe/"><img src="https://skillicons.dev/icons?i=instagram" height="35"/><a/>
+<a href="https://www.instagram.com/gntpsami/"><img src="https://skillicons.dev/icons?i=instagram" height="35"/><a/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Skills**
 
