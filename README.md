@@ -1,5 +1,7 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Mobile+Application+Developer;42+Kocaeli+Student" alt="Typing SVG" />
+<div align="left">
+
+<a href="https://github.com/samiguntepe"><img src="https://readme-typing-svg.herokuapp.com?font=Matrix&pause=1000&color=00CC00&width=435&lines=Welcome+to+Sami+G%C3%BCntepe's+Github;Mobile+App+Developer" alt="Typing SVG" /></a>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samiguntepe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
